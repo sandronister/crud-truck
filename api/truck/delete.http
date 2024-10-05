@@ -1,0 +1,2 @@
+DELETE  http://localhost:8080/api/v1/trucks/26ea7461-93d8-42e2-8924-55b4057775b3
+Content-Type: application/json

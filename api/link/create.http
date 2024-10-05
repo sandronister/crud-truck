@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/v1/links
+Content-Type: application/json
+
+{
+    "truck_id":"07f7bdd8-4e0c-4f7b-b181-da48f46b7d7c",
+    "driver_id":"46579fc6-f133-457b-9933-8f0c642a0ca9"
+}

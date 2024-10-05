@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/v1/trucks/bbace4b8-f4a2-4745-9610-ad3157ae76d6
+Content-Type: application/json

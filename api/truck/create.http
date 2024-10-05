@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/v1/trucks
+Content-Type: application/json
+
+{
+  "Brand": "Volvo",
+  "Model": "FH",
+  "Year": 2019,
+  "license_plate": "ABC-124"
+}

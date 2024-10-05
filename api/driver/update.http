@@ -1,0 +1,7 @@
+PUT  http://localhost:8080/api/v1/drivers/46579fc6-f133-457b-9933-8f0c642a0ca9
+Content-Type: application/json
+
+{
+  "name": "Will Smith",
+  "license_id": "2334001234"
+}
